@@ -601,7 +601,8 @@ width:100%;
 padding: 83px 36px 0px 36px;
 justify-content: center;
 align-items: center;
-background-color: white;
+background-color: #f2f2f2;
+
 }
 #s7>div{
   display: flex;
@@ -611,6 +612,7 @@ padding: 0px 165px;
 justify-content: center;
 align-items: flex-start;
 flex-shrink: 0;
+background-color: #f2f2f2;
 }
 .s7_div_box{
   width:40%;
@@ -633,4 +635,5 @@ justify-content: space-between;
   padding-right:40px;
   justify-content:flex-end;
   gap:40px;
+  background-color: #f2f2f2;
 }
